@@ -1,0 +1,11 @@
+[user]
+name = ken nguyen
+email = kendeveloper88@gmail.com
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@bitbucket.org:kenkan-tek/laravel_api.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
